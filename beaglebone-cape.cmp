@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 4/17/2014 10:27:50 PM
+
+BeginCmp
+TimeStamp = /534A2AC4;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5350DC5E;
+Reference = J1;
+ValeurCmp = CONN_2X2;
+IdModule  = PIN_ARRAY_2X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5350D632;
+Reference = P1;
+ValeurCmp = BEAGLEBONE_BLACK;
+IdModule  = BEAGLEBONE_BLACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /534A2A2E;
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /534A2A28;
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /534A2A1B;
+Reference = R3;
+ValeurCmp = 4.7k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /534A2A34;
+Reference = R4;
+ValeurCmp = 1.5k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /534A2A3A;
+Reference = R5;
+ValeurCmp = 1.5k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /534A29B4;
+Reference = U1;
+ValeurCmp = 24C16;
+IdModule  = SO8E;
+EndCmp
+
+EndListe
